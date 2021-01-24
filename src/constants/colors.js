@@ -1,5 +1,6 @@
 export default {
   text: "#263238",
+  indices: "#304ffe",
   faded: "#8a9094",
   primary: "#5bb7db",
   danger: "#D94238",
